@@ -1,0 +1,4 @@
+https://www.geeksforgeeks.org/python-interview-questions/
+https://www.w3schools.com/python/python_functions.asp
+https://www.programiz.com/python-programming/exceptions
+https://www.tutorialspoint.com/python/python_object_classes.htm

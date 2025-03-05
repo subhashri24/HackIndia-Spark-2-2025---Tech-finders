@@ -1,0 +1,502 @@
+[
+    {
+        "question": "Python Interview Questions for Freshers",
+        "answer": "Notifications"
+    },
+    {
+        "question": "1. What is Python? List some popular applications of Python in the world of technology.",
+        "answer": "Python is the most used language in top companies such as Intel, IBM, NASA, Pixar, Netflix, Facebook, JP Morgan Chase, Spotify, and many more because of its robust performance and powerful libraries. To get into these companies and organizations as a Python developer, we need to master some important Python Interview Questions to crack their Python Online Assessment Round and Python Interview Round. We have prepared a list of the Top 50 Python Interview Questions along with their answers to ace interviews."
+    },
+    {
+        "question": "2. What are the benefits of using Python language as a tool in the present scenario?",
+        "answer": "Table of Content"
+    },
+    {
+        "question": "3. Is Python a compiled language or an interpreted language?",
+        "answer": "Python is a widely-used general-purpose, high-level programming language. It was created by Guido van Rossum in 1991 and further developed by the Python Software Foundation. Python is known for its simple, readable syntax and allows programmers to express their concepts in fewer lines of code.It is used for:"
+    },
+    {
+        "question": "4. What is a dynamically typed language?",
+        "answer": "The following are the benefits of using Python language:"
+    },
+    {
+        "question": "5. What does the \u2018#\u2019 symbol do in Python?",
+        "answer": "Most of us may be surprised to know that python is actually both a compiled and interpreted language., when Python code is executed, it is first compiled into bytecode and then bytecode is interpreted by the Python Virtual Machine (PVM) on the underlying platform (machine + operating system). This hybrid approach allows python to balance ease of development with execution efficiency."
+    },
+    {
+        "question": "6. What is the difference between a Mutable datatype and an Immutable data type?",
+        "answer": "Typed languages are the languages in which we define the type of data type and it will be known by the machine at the compile-time or at runtime. Typed languages can be classified into two categories:"
+    },
+    {
+        "question": "7. How are arguments passed by value or by reference in Python?",
+        "answer": "\u2018#\u2019 is used to comment on everything that comes after on the line."
+    },
+    {
+        "question": "8. What is the difference between a Set and Dictionary?",
+        "answer": "In Python, arguments are passed by object reference (also called \u201cpass by assignment\u201d). This means that functions receive references to the same objects:"
+    },
+    {
+        "question": "9. What is List Comprehension? Give an Example.",
+        "answer": "The set is unordered collection of unique items that is iterable and mutable. A dictionary in Python is an ordered collection of data values, used to store data values like a map."
+    },
+    {
+        "question": "10. How is a dictionary different from a list?",
+        "answer": "List comprehension is a syntax construction to ease the creation of a list based on existing iterable."
+    },
+    {
+        "question": "11. What is a pass in Python?",
+        "answer": "For Example:"
+    },
+    {
+        "question": "12. What is the difference between / and // in Python?",
+        "answer": "A list is an ordered collection of items accessed by their index, while a dictionary is an unordered collection of key-value pairs accessed using unique keys. Lists are ideal for sequential data, whereas dictionaries are better for associative data. For example, a list can store [10, 20, 30], whereas a dictionary can store {\u201ca\u201d: 10, \u201cb\u201d: 20, \u201cc\u201d: 30}."
+    },
+    {
+        "question": "13. How is Exceptional handling done in Python?",
+        "answer": "Pass means performing no operation or in other words, it is a placeholder in the compound statement, where there should be a blank left and nothing has to be written there."
+    },
+    {
+        "question": "14. What is a lambda function?",
+        "answer": "/ represents precise division (result is a floating point number) whereas // represents floor division (result is an integer). For Example:"
+    },
+    {
+        "question": "15. Difference between for loop and while loop in Python",
+        "answer": "5//2 = 2"
+    },
+    {
+        "question": "16. Can we Pass a function as an argument in Python?",
+        "answer": "5/2 = 2.5"
+    },
+    {
+        "question": "17. What are *args and **kwargs?",
+        "answer": "There are 3 main keywords i.e. try, except, and finally which are used to catch exceptions and handle the recovering mechanism accordingly. Try is the block of a code that is monitored for errors. Except block gets executed when an error occurs."
+    },
+    {
+        "question": "18. Is Indentation Required in Python?",
+        "answer": "The beauty of the final block is to execute the code after trying for an error. This block gets executed irrespective of whether an error occurred or not. Finally, block is used to do the required cleanup activities of objects/variables."
+    },
+    {
+        "question": "19. What is a Variable Scope in Python?",
+        "answer": "A lambda function is an anonymous function. This function can have any number of parameters but, can have just one statement. For Example:"
+    },
+    {
+        "question": "20. What is docstring in Python?",
+        "answer": "The \u201cfor\u201d Loop is generally used to iterate through the elements of various collection types such as List, Tuple, Set, and Dictionary. Developers use a \u201cfor\u201d loop where they have both the conditions start and the end. Whereas, the \u201cwhile\u201d loop is the actual looping feature that is used in any other programming language. Programmers use a Python while loop where they just have the end conditions."
+    },
+    {
+        "question": "21. What is a break, continue, and pass in Python?",
+        "answer": "Yes, Several arguments can be passed to a function, including objects, variables (of the same or distinct data types), and functions. Functions can be passed as parameters to other functions because they are objects. Higher-order functions are functions that can take other functions as arguments."
+    },
+    {
+        "question": "22. What are Built-in data types in Python?",
+        "answer": "To read more, refer to the article: Passing function as an argument in Python"
+    },
+    {
+        "question": "23. How do you floor a number in Python?",
+        "answer": "To pass a variable number of arguments to a function in Python, use the special syntax *args and **kwargs in the function specification. Both are to send a variable-length argument list. The syntax *args is used to pass a non-keyworded, variable-length argument list."
+    },
+    {
+        "question": "Intermediate Python Interview Questions",
+        "answer": "Yes, indentation is required in Python. A Python interpreter can be informed that a group of statements belongs to a specific block of code by using Python indentation. Indentations make the code easy to read for developers in all programming languages but in Python, it is very important to indent the code in a specific order."
+    },
+    {
+        "question": "24. What is the difference between xrange and range functions?",
+        "answer": "The location where we can find a variable and also access it if required is called the scope of a variable."
+    },
+    {
+        "question": "25. What is Dictionary Comprehension? Give an Example",
+        "answer": "Python documentation strings (or docstrings) provide a convenient way of associating documentation with Python modules, functions, classes, and methods."
+    },
+    {
+        "question": "26. Is Tuple Comprehension? If yes, how, and if not why?",
+        "answer": "The following are the standard or built-in data types in Python:"
+    },
+    {
+        "question": "27. Differentiate between List and Tuple?",
+        "answer": "The Python math module includes a method that can be used to calculate the floor of a number."
+    },
+    {
+        "question": "28. What is the difference between a shallow copy and a deep copy?",
+        "answer": "range() and xrange() are two functions that could be used to iterate a certain number of times in for loops in Python."
+    },
+    {
+        "question": "29. Which sorting technique is used by sort() and sorted() functions of python?",
+        "answer": "Dictionary Comprehension is a syntax construction to ease the creation of a dictionary based on the existing iterable."
+    },
+    {
+        "question": "30. What are Decorators?",
+        "answer": "For Example: my_dict = {i:i+7 for i in range(1, 10)}"
+    },
+    {
+        "question": "31. How do you debug a Python program?",
+        "answer": "(i for i in (1, 2, 3))"
+    },
+    {
+        "question": "32. What are Iterators in Python?",
+        "answer": "Tuple comprehension is not possible in Python because it will end up in a generator, not a tuple comprehension."
+    },
+    {
+        "question": "33. What are Generators in Python?",
+        "answer": "Let\u2019s analyze the differences between List and Tuple:"
+    },
+    {
+        "question": "34. Does Python supports multiple Inheritance?",
+        "answer": "List"
+    },
+    {
+        "question": "35. What is Polymorphism in Python?",
+        "answer": "Tuple"
+    },
+    {
+        "question": "36. Define encapsulation in Python?",
+        "answer": "Shallow copy is used when a new instance type gets created and it keeps values that are copied whereas deep copy stores values that are already copied."
+    },
+    {
+        "question": "37. How do you do data abstraction in Python?",
+        "answer": "A shallow copy has faster program execution whereas a deep copy makes it slow."
+    },
+    {
+        "question": "38. How is memory management done in Python?",
+        "answer": "Python uses the Tim Sort algorithm for sorting. It\u2019s a stable sorting whose worst case is O(N log N). It\u2019s a hybrid sorting algorithm, derived from merge sort and insertion sort, designed to perform well on many kinds of real-world data."
+    },
+    {
+        "question": "39. How to delete a file using Python?",
+        "answer": "Decorators are a very powerful and useful tool in Python as they are the specific change that we make in Python syntax to alter functions easily."
+    },
+    {
+        "question": "40. What is slicing in Python?",
+        "answer": "By using this command we can debug a Python program:"
+    },
+    {
+        "question": "41. What is a namespace in Python?",
+        "answer": "python -m pdb python-script.py"
+    },
+    {
+        "question": "Advanced Python Interview Questions & Answers",
+        "answer": "In Python, iterators are used to iterate a group of elements, containers like a list. Iterators are collections of items, and they can be a list, tuples, or a dictionary. Python iterator implements __itr__ and the next() method to iterate the stored elements. We generally use loops to iterate over the collections (list, tuple) in Python."
+    },
+    {
+        "question": "42. What is PIP?",
+        "answer": "In Python, the generator is a way that specifies how to implement iterators. It is a normal function except that it yields expression in the function. It does not implement __itr__ and __next__ method and reduces other overheads as well."
+    },
+    {
+        "question": "43. What is a zip function?",
+        "answer": "If a function contains at least a yield statement, it becomes a generator. The yield keyword pauses the current execution by saving its states and then resumes from the same when required."
+    },
+    {
+        "question": "44. What are Pickling and Unpickling?",
+        "answer": "Python does support multiple inheritances, unlike Java. Multiple inheritances mean that a class can be derived from more than one parent class."
+    },
+    {
+        "question": "45. What is the difference between @classmethod, @staticmethod, and instance methods in Python?",
+        "answer": "Polymorphism means the ability to take multiple forms. Polymorphism allows different classes to be treated as if they are instances of the same class through a common interface. This means that a method in a parent class can be overridden by a method with the same name in a child class, but the child class can provide its own specific implementation. This allows the same method to operate differently depending on the object that invokes it. Polymorphism is about overriding, not overloading; it enables methods to operate on objects of different classes, which can have their own attributes and methods, providing flexibility and reusability in the code."
+    },
+    {
+        "question": "46. What is __init__() in Python and how does self play a role in it?",
+        "answer": "Encapsulation means binding the code and the data together. A Python class is an example of encapsulation."
+    },
+    {
+        "question": "47. Write a code to display the current time?",
+        "answer": "Data Abstraction is providing only the required details and hides the implementation from the world. It can be achieved in Python by using interfaces and abstract classes."
+    },
+    {
+        "question": "48. What are Access Specifiers in Python?",
+        "answer": "Python uses its private heap space to manage the memory. Basically, all the objects and data structures are stored in the private heap space. Even the programmer can not access this private space as the interpreter takes care of this space. Python also has an inbuilt garbage collector, which recycles all the unused memory and frees the memory and makes it available to the heap space."
+    },
+    {
+        "question": "49. What are unit tests in Python?",
+        "answer": "We can delete a file using Python by following approaches:"
+    },
+    {
+        "question": "50. Python Global Interpreter Lock (GIL)?",
+        "answer": "Python Slicing is a string operation for extracting a part of the string, or some part of a list. With this operator, one can specify where to start the slicing, where to end, and specify the step. List slicing returns a new list from the existing list."
+    },
+    {
+        "question": "51. What are Function Annotations in Python?",
+        "answer": "Syntax: Lst[ Initial : End : IndexJump ]"
+    },
+    {
+        "question": "52. What are Exception Groups in Python?",
+        "answer": "A namespace is a naming system used to make sure that names are unique to avoid naming conflicts."
+    },
+    {
+        "question": "54. What is Walrus Operator?",
+        "answer": "PIP is an acronym for Python Installer Package which provides a seamless interface to install various Python modules. It is a command-line tool that can search for packages over the internet and install them without any user interaction."
+    },
+    {
+        "question": "Thank You!",
+        "answer": "Python zip() function returns a zip object, which maps a similar index of multiple containers. It takes an iterable, converts it into an iterator and aggregates the elements based on iterables passed. It returns an iterator of tuples."
+    },
+    {
+        "question": "What kind of Experience do you want to share?",
+        "answer": "Pickle module accepts any Python object and converts it into a string representation and dumps it into a file by using the dump function, this process is called pickling. While the process of retrieving original Python objects from the stored string representation is called unpickling."
+    },
+    {
+        "question": "Tutorials",
+        "answer": "W3Schools offers a wide range of services and products for beginners and professionals,\n                \n                helping millions of people everyday to learn and master new skills."
+    },
+    {
+        "question": "HTML and CSS",
+        "answer": "Enjoy our free tutorials like millions of other internet users since 1999"
+    },
+    {
+        "question": "Data Analytics",
+        "answer": "Explore our selection of references covering all popular coding languages"
+    },
+    {
+        "question": "Web Building",
+        "answer": "Create your own website with\n                      W3Schools Spaces\n                      - no setup required"
+    },
+    {
+        "question": "JavaScript",
+        "answer": "Test your skills with different exercises"
+    },
+    {
+        "question": "Backend",
+        "answer": "Document your knowledge"
+    },
+    {
+        "question": "Exercises",
+        "answer": "Become a PLUS user and unlock powerful features (ad-free, hosting, support,..)"
+    },
+    {
+        "question": "Certificates",
+        "answer": "Create your own server using Python, PHP, React.js, Node.js, Java, C#, etc."
+    },
+    {
+        "question": "Programs",
+        "answer": "Read long term trends of browser usage"
+    },
+    {
+        "question": "All Our Services",
+        "answer": "Contact us about W3Schools Academy for your organization"
+    },
+    {
+        "question": "Python Tutorial",
+        "answer": "About sales:\n                      sales@w3schools.com\n\n                      About errors:\n                      help@w3schools.com"
+    },
+    {
+        "question": "File Handling",
+        "answer": "A function is a block of code which only runs when it is called."
+    },
+    {
+        "question": "Python Modules",
+        "answer": "You can pass data, known as parameters, into a function."
+    },
+    {
+        "question": "Python Matplotlib",
+        "answer": "A function can return data as a result."
+    },
+    {
+        "question": "Machine Learning",
+        "answer": "In Python a function is defined using the def \nkeyword:"
+    },
+    {
+        "question": "Python MySQL",
+        "answer": "To call a function, use the function name followed by parenthesis:"
+    },
+    {
+        "question": "Python MongoDB",
+        "answer": "Information can be passed into functions as arguments."
+    },
+    {
+        "question": "Python Reference",
+        "answer": "Arguments are specified after the function name, inside the parentheses.\nYou can add as many arguments as you want, just separate them with a comma."
+    },
+    {
+        "question": "Module Reference",
+        "answer": "The following example has a function with one argument (fname).\nWhen the function is called, we pass along a first name,\nwhich is used inside the function to print the full name:"
+    },
+    {
+        "question": "Python How To",
+        "answer": "Arguments are often shortened to args in Python documentations."
+    },
+    {
+        "question": "Python Examples",
+        "answer": "The terms parameter and argument can be used for the same thing: information that are passed into a function."
+    },
+    {
+        "question": "Creating a Function",
+        "answer": "From a function's perspective:"
+    },
+    {
+        "question": "Example",
+        "answer": "A parameter is the variable listed inside the parentheses in the function definition."
+    },
+    {
+        "question": "Calling a Function",
+        "answer": "An argument is the value that is sent to the function when it is called."
+    },
+    {
+        "question": "Arguments",
+        "answer": "This function expects 2 arguments, and gets 2 arguments:"
+    },
+    {
+        "question": "Parameters or Arguments?",
+        "answer": "If you do not know how many arguments that will be passed into your function,\nadd a * before the parameter name in the function definition."
+    },
+    {
+        "question": "Number of Arguments",
+        "answer": "This way the function will receive a tuple of arguments, and can access the items accordingly:"
+    },
+    {
+        "question": "Arbitrary Arguments, *args",
+        "answer": "You can also send arguments with the key = value syntax."
+    },
+    {
+        "question": "Keyword Arguments",
+        "answer": "The phrase Keyword Arguments are often shortened to kwargs in Python documentations."
+    },
+    {
+        "question": "Arbitrary Keyword Arguments, **kwargs",
+        "answer": "This way the function will receive a dictionary of arguments, and can access the items accordingly:"
+    },
+    {
+        "question": "Default Parameter Value",
+        "answer": "Arbitrary Kword Arguments are often shortened to **kwargs in Python documentations."
+    },
+    {
+        "question": "Passing a List as an Argument",
+        "answer": "If we call the function without argument, it uses the default value:"
+    },
+    {
+        "question": "Return Values",
+        "answer": "E.g. if you send a List as an argument, it will still be a List when it \nreaches the function:"
+    },
+    {
+        "question": "The pass Statement",
+        "answer": "function definitions cannot be empty, but if \nyou for some reason have a function definition with no content, put in the pass statement to avoid getting an error."
+    },
+    {
+        "question": "Positional-Only Arguments",
+        "answer": "To specify that a function can have only positional arguments, add , /\nafter the arguments:"
+    },
+    {
+        "question": "Keyword-Only Arguments",
+        "answer": "Without the *,  you are allowed to use positionale arguments even if the function\nexpects keyword arguments:"
+    },
+    {
+        "question": "Combine Positional-Only and Keyword-Only",
+        "answer": "Python also accepts function recursion, which means a defined function can call itself."
+    },
+    {
+        "question": "Recursion",
+        "answer": "The developer should be very careful with recursion as it can be quite easy to slip into writing a function which never terminates, or one that uses excess amounts of memory or processor power. However, when written correctly recursion can be a very efficient and mathematically-elegant approach to programming."
+    },
+    {
+        "question": "Contact Sales",
+        "answer": "To a new developer it can take some time to work out how exactly this works, best way to find out is by testing and modifying it."
+    },
+    {
+        "question": "Report Error",
+        "answer": "Recursion Example"
+    },
+    {
+        "question": "Learn Python practically \n                        and Get Certified.",
+        "answer": "Try Programiz PRO"
+    },
+    {
+        "question": "Python Introduction",
+        "answer": "Learn Python practically \n                and Get Certified."
+    },
+    {
+        "question": "Python Fundamentals",
+        "answer": "Created with over a decade of experience."
+    },
+    {
+        "question": "Python Flow Control",
+        "answer": "Created with over a decade of experience and thousands of feedback."
+    },
+    {
+        "question": "Python Data types",
+        "answer": "Learn Python practically \n                        and Get Certified."
+    },
+    {
+        "question": "Python Functions",
+        "answer": "An exception is an unexpected event that occurs during program execution. For example,"
+    },
+    {
+        "question": "Python Files",
+        "answer": "The above code causes an exception as it is not possible to divide a number by 0."
+    },
+    {
+        "question": "Python Exception Handling",
+        "answer": "Let's learn about Python Exceptions in detail."
+    },
+    {
+        "question": "Python Object & Class",
+        "answer": "Errors that occur at runtime (after passing the syntax test) are called exceptions or logical errors."
+    },
+    {
+        "question": "Python Advanced Topics",
+        "answer": "For instance, they occur when we"
+    },
+    {
+        "question": "Python Date and Time",
+        "answer": "Whenever these types of runtime errors occur, Python creates an exception object."
+    },
+    {
+        "question": "Additional Topic",
+        "answer": "If not handled properly, it prints a traceback to that error along with some details about why that error occurred."
+    },
+    {
+        "question": "Python Tutorials",
+        "answer": "Let's look at how Python treats these errors:"
+    },
+    {
+        "question": "Python Logical Errors (Exceptions)",
+        "answer": "Output"
+    },
+    {
+        "question": "Python Error and Exception",
+        "answer": "Here, while trying to divide 7 / 0, the program throws a system exception ZeroDivisionError"
+    },
+    {
+        "question": "Table of Contents",
+        "answer": "Illegal operations can raise exceptions. There are plenty of built-in exceptions in Python that are raised when corresponding errors occur."
+    },
+    {
+        "question": "Video: Python Exception Handling",
+        "answer": "We can view all the built-in exceptions using the built-in local() function as follows:"
+    },
+    {
+        "question": "Related Tutorials",
+        "answer": "Here, locals()['__builtins__'] will return a module of built-in exceptions, functions, and attributes and dir allows us to list these attributes as strings."
+    },
+    {
+        "question": "What is a Class in Python?",
+        "answer": "Python is an object-oriented programming language, which means that it is based on principle of OOP concept. The entities used within a Python program is an object of one or another class. For instance, numbers, strings, lists, dictionaries, and other similar entities of a program are objects of the corresponding built-in class."
+    },
+    {
+        "question": "Creating Classes in Python",
+        "answer": "In Python, a class named Object is the base or parent class for all the classes, built-in as well as user defined."
+    },
+    {
+        "question": "What is an Object?",
+        "answer": "The class keyword is used to create a new class in Python. The name of the class immediately follows the keyword class followed by a colon as shown below \u2212"
+    },
+    {
+        "question": "Creating Objects of Classes in Python",
+        "answer": "The class has a documentation string, which can be accessed via ClassName.__doc__."
+    },
+    {
+        "question": "Accessing Attributes of Objects in Python",
+        "answer": "The class_suite consists of all the component statements defining class members, data attributes and functions."
+    },
+    {
+        "question": "Built-In Class Attributes in Python",
+        "answer": "Following is the example of a simple Python class \u2212"
+    },
+    {
+        "question": "Built-in Class of Python datatypes",
+        "answer": "The first method __init__() is a special method, which is called class constructor or initialization method that Python calls when you create a new instance of this class."
+    },
+    {
+        "question": "Garbage Collection(Destroying Objects) in Python",
+        "answer": "An object is refered to as an instance of a given Python class. Each object has its own attributes and methods, which are defined by its class."
+    },
+    {
+        "question": "Data Hiding in Python",
+        "answer": "In the above figure, Vehicle is the class name and Car, Bus and SUV are its objects."
+    }
+]
